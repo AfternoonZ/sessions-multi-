@@ -25,9 +25,9 @@ edit sewabot di file settings.js line 24
 `
 // setting 
 global.firtsChat = true //send firts message to new user
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.antidelete = false // anti delete
-global.antiviewonce = true // anti view once
+global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
@@ -46,12 +46,12 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "Haru-Mdོ" //namabot kalian
+global.ownername = "Haru" //nama kalian
+global.myweb = "https://s.id/-" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/MiawAug" //bebas asal jan hapus
+global.myweb2 = "https://s.id/" //bebas
+global.email = "uwjshsjc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285609117881'] //premium user
@@ -72,7 +72,7 @@ global.typemenu2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
-   free: 100
+   free: 1000
 }
 global.buttonDefault = [{
    urlButton: {
